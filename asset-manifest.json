@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/careers-quiz-react/static/css/main.5aee87d3.css",
+    "main.js": "/careers-quiz-react/static/js/main.1ac783c8.js",
+    "static/js/453.ed3810f9.chunk.js": "/careers-quiz-react/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/careers-quiz-react/index.html",
+    "main.5aee87d3.css.map": "/careers-quiz-react/static/css/main.5aee87d3.css.map",
+    "main.1ac783c8.js.map": "/careers-quiz-react/static/js/main.1ac783c8.js.map",
+    "453.ed3810f9.chunk.js.map": "/careers-quiz-react/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aee87d3.css",
+    "static/js/main.1ac783c8.js"
+  ]
+}
