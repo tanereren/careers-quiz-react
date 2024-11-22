@@ -1,0 +1,129 @@
+[
+  {
+    "job": "Frontend Developer",
+    "description": "Focuses on creating user interfaces and ensuring seamless user experiences.",
+    "filters": [
+      "frontend",
+      "react",
+      "webdev",
+      "startup",
+      "remote",
+      "flexible",
+      "edtech",
+      "gaming"
+    ]
+  },
+  {
+    "job": "Backend Developer",
+    "description": "Specializes in server-side logic, database management, and APIs.",
+    "filters": [
+      "backend",
+      "django",
+      "webdev",
+      "enterprise",
+      "hybrid",
+      "strict",
+      "fintech",
+      "healthcare"
+    ]
+  },
+  {
+    "job": "Full Stack Developer",
+    "description": "Works on both frontend and backend components of web applications.",
+    "filters": [
+      "fullstack",
+      "react",
+      "startup",
+      "flexible",
+      "remote",
+      "gaming",
+      "edtech"
+    ]
+  },
+  {
+    "job": "Mobile App Developer",
+    "description": "Develops applications for mobile platforms such as iOS and Android.",
+    "filters": [
+      "mobile",
+      "flutter",
+      "mobileapps",
+      "remote",
+      "freelance",
+      "flexible",
+      "gaming",
+      "healthcare"
+    ]
+  },
+  {
+    "job": "DevOps Engineer",
+    "description": "Combines development and operations to improve software delivery.",
+    "filters": [
+      "backend",
+      "enterprise",
+      "strict",
+      "fintech",
+      "healthcare",
+      "structured",
+      "ai"
+    ]
+  },
+  {
+    "job": "Data Scientist",
+    "description": "Analyzes and interprets complex data to help companies make decisions.",
+    "filters": [
+      "backend",
+      "django",
+      "ai",
+      "enterprise",
+      "remote",
+      "timemanagement",
+      "fintech",
+      "healthcare"
+    ]
+  },
+  {
+    "job": "Game Developer",
+    "description": "Designs and creates games for various platforms.",
+    "filters": ["unity", "games", "startup", "office", "agile", "gaming"]
+  },
+  {
+    "job": "UI/UX Designer",
+    "description": "Creates intuitive and visually appealing user experiences.",
+    "filters": [
+      "frontend",
+      "react",
+      "webdev",
+      "startup",
+      "flexible",
+      "remote",
+      "gaming",
+      "edtech"
+    ]
+  },
+  {
+    "job": "AI/ML Engineer",
+    "description": "Develops intelligent algorithms and machine learning models.",
+    "filters": [
+      "backend",
+      "ai",
+      "enterprise",
+      "timemanagement",
+      "remote",
+      "fintech",
+      "healthcare"
+    ]
+  },
+  {
+    "job": "Cloud Architect",
+    "description": "Designs scalable cloud solutions for organizations.",
+    "filters": [
+      "backend",
+      "enterprise",
+      "structured",
+      "strict",
+      "remote",
+      "fintech",
+      "healthcare"
+    ]
+  }
+]

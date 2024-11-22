@@ -1,0 +1,68 @@
+[
+  {
+    "questionText": "What type of work environment do you prefer?",
+    "answerOptions": [
+      { "answerText": "Remote", "dataAttribute": "remote" },
+      { "answerText": "Office", "dataAttribute": "office" },
+      { "answerText": "Hybrid", "dataAttribute": "hybrid" },
+      { "answerText": "Freelance", "dataAttribute": "freelance" }
+    ]
+  },
+  {
+    "questionText": "What is your preferred tech stack?",
+    "answerOptions": [
+      { "answerText": "Frontend (HTML/CSS/JS)", "dataAttribute": "frontend" },
+      { "answerText": "Backend (Node.js/Python)", "dataAttribute": "backend" },
+      { "answerText": "Full Stack", "dataAttribute": "fullstack" },
+      { "answerText": "Mobile Development", "dataAttribute": "mobile" }
+    ]
+  },
+  {
+    "questionText": "Which industries interest you the most?",
+    "answerOptions": [
+      { "answerText": "Healthcare Tech", "dataAttribute": "healthcare" },
+      { "answerText": "FinTech", "dataAttribute": "fintech" },
+      { "answerText": "EdTech", "dataAttribute": "edtech" },
+      { "answerText": "Gaming", "dataAttribute": "gaming" }
+    ]
+  },
+  {
+    "questionText": "What tools or platforms do you prefer working with?",
+    "answerOptions": [
+      { "answerText": "React/Angular", "dataAttribute": "react" },
+      { "answerText": "Django/Flask", "dataAttribute": "django" },
+      { "answerText": "Flutter/React Native", "dataAttribute": "flutter" },
+      { "answerText": "Unity/Unreal", "dataAttribute": "unity" }
+    ]
+  },
+  {
+    "questionText": "What kind of team do you prefer?",
+    "answerOptions": [
+      { "answerText": "Collaborative Teams", "dataAttribute": "collaborative" },
+      { "answerText": "Independent Roles", "dataAttribute": "independent" },
+      { "answerText": "Small Agile Teams", "dataAttribute": "agile" },
+      { "answerText": "Large Structured Teams", "dataAttribute": "structured" }
+    ]
+  },
+  {
+    "questionText": "Which type of projects do you enjoy?",
+    "answerOptions": [
+      { "answerText": "Web Development", "dataAttribute": "webdev" },
+      { "answerText": "AI/ML", "dataAttribute": "ai" },
+      { "answerText": "Mobile Apps", "dataAttribute": "mobileapps" },
+      { "answerText": "Games", "dataAttribute": "games" }
+    ]
+  },
+  {
+    "questionText": "How do you approach deadlines?",
+    "answerOptions": [
+      { "answerText": "Strict Deadlines", "dataAttribute": "strict" },
+      { "answerText": "Flexible Deadlines", "dataAttribute": "flexible" },
+      { "answerText": "No Deadlines", "dataAttribute": "none" },
+      {
+        "answerText": "Time Management Expert",
+        "dataAttribute": "timemanagement"
+      }
+    ]
+  }
+]
